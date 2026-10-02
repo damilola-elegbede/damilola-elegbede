@@ -12,7 +12,7 @@ the case studies below describe what's behind them.
 
 **BareClaude — an agentic operating system** · _private_
 Two Claude-powered agents (Clara, Dara) run engineering and life ops autonomously: launchd scheduling,
-a queue worker, Linear, Slack, and Telegram, with merge authority governed by policy.
+a queue worker, budget caps, and per-agent identities — agents file requests; a human owns review and merge.
 
 **Mandate — fleet control plane** · _private_
 Unified approval inbox, per-agent budgets, delegation authority, and an oversight dashboard for a fleet of agents.
