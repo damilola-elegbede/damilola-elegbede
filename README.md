@@ -14,9 +14,6 @@ the case studies below describe what's behind them.
 Two Claude-powered agents (Clara, Dara) run engineering and life ops autonomously: launchd scheduling,
 a queue worker, budget caps, and per-agent identities — agents file requests; a human owns review and merge.
 
-**Mandate — fleet control plane** · _private_
-Unified approval inbox, per-agent budgets, delegation authority, and an oversight dashboard for a fleet of agents.
-
 **[claude-config](https://github.com/damilola-elegbede-org/claude-config)** · _public_
 Versioned agent configuration — skills, hooks, and decision gates deployed across the fleet, with tests for every hook.
 
