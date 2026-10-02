@@ -6,6 +6,7 @@ I build compounding platforms — systems that get more reliable as they grow, n
 Most of my work lives in private repos under [@damilola-elegbede-org](https://github.com/damilola-elegbede-org);
 the case studies below describe what's behind them.
 
+[damilola.tech](https://damilola.tech) · [LinkedIn](https://www.linkedin.com/in/damilola-elegbede/)
 
 ## Selected work
 
