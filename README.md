@@ -23,6 +23,9 @@ Full-stack event platform (Vercel serverless, libSQL/Turso, Stripe and PayPal) �
 **[damilola.tech](https://damilola-elegbede-org.github.io/damilola-tech.html)** · _private source, [live site](https://damilola.tech)_
 Portfolio plus AI résumé tooling: fit scoring, tailored résumé and cover-letter generation, authenticated admin.
 
+**[Sabor Con Flow](https://damilola-elegbede-org.github.io/scf.html)** · _private source, [live site](https://www.saborconflowdance.com)_
+A Boulder salsa studio site rebuilt from Django to Next.js on Vercel, with moderated testimonials, rate-limited forms, and CI on every change.
+
 ## How I work
 
 - **Guardrails over good intentions** — every practice ships a detector, and every detector ships proof it can fail.
