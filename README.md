@@ -21,7 +21,7 @@ Unified approval inbox, per-agent budgets, delegation authority, and an oversigh
 Versioned agent configuration — skills, hooks, and decision gates deployed across the fleet, with tests for every hook.
 
 **A Lo Cubano Boulder Fest platform** · _private_
-Full-stack event platform (Next.js, libSQL/Turso, Vercel) — ticketing and operations for a live festival.
+Full-stack event platform (Vercel serverless, libSQL/Turso, Stripe and PayPal) — ticketing, QR check-in, and operations for a live festival.
 
 **[damilola.tech](https://damilola.tech)** · _private source, live site_
 Portfolio plus AI résumé tooling: fit scoring, tailored résumé and cover-letter generation, authenticated admin.
