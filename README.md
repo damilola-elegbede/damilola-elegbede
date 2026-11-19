@@ -6,13 +6,13 @@ I build compounding platforms — systems that get more reliable as they grow, n
 Most of my work lives in private repos under [@damilola-elegbede-org](https://github.com/damilola-elegbede-org);
 the case studies below describe what's behind them.
 
-[Architecture write-ups](https://damilola-elegbede-org.github.io) · [damilola.tech](https://damilola.tech) · [LinkedIn](https://www.linkedin.com/in/damilola-elegbede/)
+[Architecture write-ups](https://damilola-elegbede-org.github.io) · [damilola.tech](https://www.damilola.tech) · [LinkedIn](https://www.linkedin.com/in/damilola-elegbede/)
 
 ## Selected work
 
 **[BareClaude — an agentic operating system](https://damilola-elegbede-org.github.io/bareclaude.html)** · _private, architecture write-up_
-Two Claude-powered agents (Clara, Dara) run engineering and life ops autonomously: launchd scheduling,
-a queue worker, budget caps, and per-agent identities — agents file requests; a human owns review and merge.
+A Claude-powered agent (Clara) runs engineering and life ops autonomously: launchd scheduling,
+a queue worker, budget caps, and a dedicated identity — the agent files requests; a human owns review and merge.
 
 **[claude-config](https://github.com/damilola-elegbede-org/claude-config)** · _public_
 Versioned agent configuration — skills, hooks, and decision gates deployed across the fleet, with tests for every hook.
